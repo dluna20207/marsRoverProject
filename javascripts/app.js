@@ -1,7 +1,7 @@
 // Rover Object Goes Here
 // ======================
 
-let rover = { direction: "N", x: 0, y: 0, travelLog: []};
+let rover = {direction: "N", x: 0, y: 0, travelLog: []};
 
 // ======================
 function turnLeft(rover) {
